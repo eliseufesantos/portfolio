@@ -209,6 +209,10 @@ body {
         width: 1.5rem;
     }
 
+    .apresentacao__imagem {
+        width: 10rem;
+    }
+
     .apresentacao__imagem__about {
         width: 12.5rem;
     }
