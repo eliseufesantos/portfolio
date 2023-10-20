@@ -171,16 +171,19 @@ body {
     }
 
     .cabecalho {
-        padding: 10%;
+        padding: 8%;
     }
 
     .cabecalho__menu {
         justify-content: center;
+        align-items: center;
+        text-align: center;
     }
 
     .apresentacao {
         flex-direction: column-reverse;
         padding: 10%;
+        gap: 50px;
     }
 
     .apresentacao__conteudo {
